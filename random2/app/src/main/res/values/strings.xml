@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">random2</string>
+    <string name="main_activity_from">From</string>
+    <string name="main_activity_to">To</string>
+    <string name="main_activity_generate">Generate</string>
+    <string name="main_activity_list">List</string>
+    <string name="activity_list_add">add</string>
+    <string name="activity_list_shuffle">shuffle</string>
+</resources>
